@@ -9,6 +9,7 @@ def hello():
     var2=30
     bcdijcikj
     print()
+    vcsdcnjsdcksc
 
      msclsclls
      mcs,cccjeieincecndiff=var1-var2
