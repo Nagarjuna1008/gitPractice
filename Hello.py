@@ -1,6 +1,6 @@
 print("Hello")
 
-def hello():
+def hello1():
     var3=50
     var4=30
     mil=var1*var2
